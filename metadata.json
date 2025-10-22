@@ -1,0 +1,5 @@
+{
+  "name": "AI Photo Editor - Nano Banana",
+  "description": "An advanced AI-powered photo editing application that allows users to upload an image and provide a text prompt to perform complex edits using Google's 'gemini-2.5-flash-image-preview' (Nano Banana) model.",
+  "requestFramePermissions": []
+}
